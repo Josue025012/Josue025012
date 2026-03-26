@@ -28,5 +28,5 @@ Full-Stack - Júnior
 
 ### Teste
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Josue025012&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Josue025012&show_icons=true&theme=dark" />
 
